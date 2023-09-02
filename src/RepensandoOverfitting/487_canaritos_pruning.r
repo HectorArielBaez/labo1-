@@ -1,6 +1,6 @@
 # limpio la memoria
-rm(list = ls()) # remove all objects  
-gc() # garbage collection   
+rm(list = ls()) # remove all objects
+gc() # garbage collection
 
 require("data.table")
 require("rpart")
