@@ -4,7 +4,7 @@
 
 # limpio la memoria
 rm(list = ls()) # Borro todos los objetos
-gc() # Garbage Collection
+gc() # Garbage Collection  
 
 require("data.table")
 require("rpart")
